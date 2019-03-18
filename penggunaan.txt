@@ -1,0 +1,17 @@
+=CARA PENGGUNAAN=
+
+ketikan : php artisan serve di terminal (CMD)
+di web browser ketik: localhost:8000
+
+
+--------------------------------
+--------------------------------
+**************LOGIN*************
+
+USERNAME: admin@hotel.com
+PASSWORD: 1234567
+
+--------------------------------
+--------------------------------
+
+sELAMAT MECOBA :)
